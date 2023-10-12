@@ -2,7 +2,7 @@
 
 UnsignedMixerControl volumeControl = null;
 
-while (volumeControl == null)
+while (true)
 {
     try
     {
